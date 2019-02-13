@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  text-align: center;
   background-color: #dedede;
   padding: 0;
   font-weight: 400;
@@ -96,7 +97,8 @@ code {
   fill: #ffb1a8;
 }
 
-.liked {
+.liked,
+.liked:hover {
   fill: #ff7c6e;
 }
 
